@@ -7,6 +7,7 @@ Owie Integration in use:
 
 
 At the moment this integration creates:
+
 A battey sensor
 
 A charging sensor:
