@@ -1,0 +1,5 @@
+{
+    "name": "Owie-Battery",
+    "render_readme": true,
+    "domains": ["sensor"]
+}

@@ -1,0 +1,10 @@
+{
+    "domain": "owie",
+    "name": "Owie",
+    "documentation": "https://github.com/yourjelly",
+    "dependencies": [],
+    "codeowners": ["@yourjelly"],
+    "version": "0.0.2",
+    "requirements": [
+    ]
+}
