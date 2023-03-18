@@ -34,7 +34,8 @@ Download this github and copy the owie folder into your Home Assistant 'custom_c
 Then add the owie platform to your Home Asistant config using the following below:
 
 Config Yaml Use:
+    
     sensor:
     - platform: owie
-        name: "Owie Pint"
+        name: "Owie Pint"        
         owie_local_ip: 127.0.0.1 #Owie IP Address
